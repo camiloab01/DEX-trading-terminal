@@ -1,0 +1,17 @@
+{
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+  "extends": [
+    "config:recommended"
+  ],
+  "ignorePaths": [
+    "public/**/package.json",
+    "vendor/**/package.json"
+  ],
+  "ignoreDeps": [
+    "@lingui/swc-plugin",
+    "@swc/core",
+    "eslint"
+  ],
+  "branchPrefix": "dep_",
+  "branchNameStrict": true
+}

@@ -1,0 +1,68 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+.haunt.yaml
+.eslintcache
+.vitecache
+
+node_modules
+dist
+dist*
+dist.tar.gz
+dist-ssr
+*.local
+
+/buildtrace
+!public/*
+
+# we use yarn so ignore package-lock
+package-lock.json
+
+.yarn/*
+!.yarn/releases
+!.yarn/plugins
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+*.env
+.env.sentry-build-plugin
+
+# Locales
+/src/locales/**/*.ts
+/src/locales/**/*.d.ts
+
+public/config.js
+
+stats.html
+
+
+localhost*.html
+
+.gitlab-local-ci
+
+# Sentry Auth Token
+.env.sentry-build-plugin
+
+# Sentry Auth Token
+.env.sentry-build-plugin
+
+# Sentry Config File
+.env.sentry-build-plugin
+*.tsbuildinfo
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/

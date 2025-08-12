@@ -1,0 +1,9 @@
+.firstRowAnimation {
+  animation: blinker 0.4s linear 2;
+}
+
+@keyframes blinker {
+  50% {
+    opacity: 0;
+  }
+}

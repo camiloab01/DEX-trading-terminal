@@ -1,0 +1,315 @@
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2024-01-05 11:50-0800\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: @lingui/cli\n"
+"Language: en\n"
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Plural-Forms: \n"
+
+#. js-lingui-explicit-id
+#: src/app/components/inputs/SearchDropdownInput.tsx:32
+msgid "Search Dropdown Input"
+msgstr ""
+
+#: src/app/components/layouts/mainPage/PoolPageLayout.tsx:39
+msgid "{0}/{1} {2}% over the past 24H with a trading volume of {formattedVolume} with ${formattedFees} in fees. The TVL is ${formattedTvl}. Trade on {3} and other chains today. Limit orders, analytics, charts, and more on Oku Trade."
+msgstr ""
+
+#: src/app/components/layouts/swapPage/DefaultSwapPageLayout.tsx:35
+#~ msgid "{0}/{1} {2}% over the past 7d. Swap {3} and {4} on {5} today. Charting, analytics, trending tokens, and more ok Oku Trade"
+#~ msgstr ""
+
+#: src/app/components/layouts/swapPage/DefaultSwapPageLayout.tsx:43
+msgid "{0}/{1} {2}% over the past 7D. Swap {3} and {4} on {5} today. Charting, analytics, trending tokens, and more ok Oku Trade"
+msgstr ""
+
+#: src/app/pages/LiquidityPage.tsx:69
+msgid "{0}/{1} | LP Position Manager | Oku Trade"
+msgstr ""
+
+#: src/app/components/layouts/swapPage/DefaultSwapPageLayout.tsx:41
+msgid "{0}/{1} | Swap on {2} | Oku Trade"
+msgstr ""
+
+#: src/app/components/layouts/mainPage/PoolPageLayout.tsx:37
+msgid "{0}/{1} at {formattedPrice} | Oku Trade"
+msgstr ""
+
+#: src/app/pages/LiquidityPage.tsx:71
+msgid "{0}/{1} has a 24H trading volume of ${formattedVolume} with ${2} in fees. The TVL is ${formattedTvl}. Liquidity depth, chart analytics, position creation, and more on Oku Trade."
+msgstr ""
+
+#: src/app/route/helmet.tsx:14
+msgid "{defaultDesc}"
+msgstr ""
+
+#: src/app/route/helmet.tsx:15
+msgid "{defaultLongDesc}"
+msgstr ""
+
+#: src/app/components/banners/OrderBanners.tsx:211
+#: src/app/components/banners/OrderBanners.tsx:216
+msgid "{info}"
+msgstr ""
+
+#: src/app/route/helmet.tsx:15
+msgid "{longPageDescription}"
+msgstr ""
+
+#: src/app/route/helmet.tsx:14
+msgid "{pageDescription}"
+msgstr ""
+
+#: src/app/route/helmet.tsx:13
+msgid "{pageTitle}"
+msgstr ""
+
+#: src/app/components/banners/OrderBanners.tsx:198
+msgid "{title}"
+msgstr ""
+
+#: src/app/components/banners/OrderBanners.tsx:187
+msgid "{type}"
+msgstr ""
+
+#: src/app/components/dropdown/SearchPoolDropDown.tsx:128
+#~ msgid "24H Volume"
+#~ msgstr ""
+
+#: src/app/components/modals/swap/TermsModal.tsx:123
+msgid "Agree and Continue"
+msgstr ""
+
+#: src/app/components/forms/OrderForms/Swap/RouteTable.tsx:131
+#: src/app/components/lists/orderBook/OrderBook.tsx:148
+#: src/app/components/lists/tradingHistory/TradeHistoryTitles.tsx:26
+msgid "Amount"
+msgstr ""
+
+#: src/app/components/navbar/Header.tsx:136
+#: src/app/components/navbar/NavBar.tsx:65
+msgid "Analytics"
+msgstr ""
+
+#: src/app/components/modals/swap/PendingQuotesModal.tsx:60
+msgid "Are you sure?"
+msgstr ""
+
+#: src/app/components/modals/swap/TermsModal.tsx:81
+#~ msgid "By clicking \"Agree and Continue\" you certify that you have read, understood, and agree to GFX Labs' {termsOfService}, {privacyPolicy}, and the following"
+#~ msgstr ""
+
+#: src/app/components/modals/swap/TermsModal.tsx:79
+msgid "By clicking \"Agree and Continue\" you certify that you have read, understood, and agree to GFX Labs' <0>Terms of Service</0>, <1>Privacy Policy</1>, and the following"
+msgstr ""
+
+#: src/app/components/layouts/swapPage/DefaultSwapPageLayout.tsx:28
+msgid "Charting, analytics, trending tokens, and more on Oku Trade."
+msgstr ""
+
+#: src/app/pages/OrdersPage.tsx:20
+#~ msgid "Check out your position analytics on the world’s most advanced DeFi trading platform. Order type, status, entry price, and more on Oku Trade."
+#~ msgstr ""
+
+#: src/app/pages/OrdersPage.tsx:19
+msgid "Check out your Uniswap v3 trade and position analytics on the world’s most advanced DeFi trading platform. Order type, status, entry price, and more on Oku Trade."
+msgstr ""
+
+#: src/app/components/buttons/ClearAllButton.tsx:8
+msgid "Clear all"
+msgstr ""
+
+#: src/app/components/buttons/ClearAllButton.tsx:7
+#~ msgid "Clear Selection"
+#~ msgstr ""
+
+#: src/app/pages/OrdersPage.tsx:44
+msgid "Connect your wallet to view"
+msgstr ""
+
+#: src/app/pages/OrdersPage.tsx:19
+#~ msgid "DeFi Position Analytics | Oku Trade"
+#~ msgstr ""
+
+#: src/app/pages/Landing.tsx:25
+msgid "DeFi’s Best DEX Trading Platform | Oku Trade"
+msgstr ""
+
+#: src/app/components/navbar/Header.tsx:141
+#: src/app/components/navbar/NavBar.tsx:67
+msgid "Docs"
+msgstr ""
+
+#: src/app/components/sections/liquidityPage/DeployPositionPanel.tsx:357
+msgid "Enter amount"
+msgstr ""
+
+#: src/app/components/forms/OrderForms/Swap/PriceInfo.tsx:146
+#: src/app/components/forms/OrderForms/Swap/RouteTable.tsx:152
+msgid "Gas"
+msgstr ""
+
+#: src/app/pages/LiquidityPage.tsx:37
+msgid "Liquidity depth, chart analytics, position creation, and more on Oku Trade."
+msgstr ""
+
+#: src/app/pages/LiquidityPage.tsx:35
+msgid "LP Position Manager | Oku Trade"
+msgstr ""
+
+#: src/app/components/forms/OrderForms/BalanceInfo.tsx:34
+#: src/app/components/sections/liquidityPage/TokenInput.tsx:77
+msgid "Max"
+msgstr ""
+
+#: src/app/components/modals/AppLayoutModal.tsx:123
+msgid "My Orders"
+msgstr ""
+
+#: src/app/components/dropdown/SearchPoolDropDown.tsx:289
+#~ msgid "No Search Results"
+#~ msgstr ""
+
+#: src/app/components/forms/OrderForms/Swap/PriceInfo.tsx:92
+msgid "Non-Uniswap v3 trades will temporarily not appear in your trading history on Oku."
+msgstr ""
+
+#: src/app/components/modals/swap/TermsModal.tsx:91
+msgid "Oku is an entirely non-custodial application, meaning we do not have custody, possession, or control over your crypto assets at any point."
+msgstr ""
+
+#: src/app/components/forms/OrderForms/Swap/RouteTable.tsx:204
+msgid "Oku Smart Router"
+msgstr ""
+
+#: src/app/route/helmet.tsx:13
+msgid "oku.trade"
+msgstr ""
+
+#: src/app/components/lists/orderHistory/mainPage/OrderHistoryList.tsx:22
+#: src/app/pages/OrdersPage.tsx:45
+msgid "Order History"
+msgstr ""
+
+#: src/app/components/layouts/mainPage/PoolPageLayout.tsx:19
+msgid "Pool | Oku Trade"
+msgstr ""
+
+#: src/app/components/dropdown/SearchPoolDropDown.tsx:79
+msgid "Pools"
+msgstr ""
+
+#: src/app/components/navbar/Header.tsx:130
+#: src/app/components/navbar/NavBar.tsx:63
+msgid "Position Maker"
+msgstr ""
+
+#: src/app/components/dropdown/SearchPoolDropDown.tsx:161
+#: src/app/components/forms/OrderForms/Swap/PriceInfo.tsx:109
+#: src/app/components/forms/OrderForms/Swap/RouteTable.tsx:143
+#: src/app/components/lists/orderBook/OrderBook.tsx:143
+#: src/app/components/lists/tradingHistory/TradeHistoryTitles.tsx:21
+msgid "Price"
+msgstr ""
+
+#: src/app/components/forms/OrderForms/Swap/PriceInfo.tsx:122
+msgid "Price Impact"
+msgstr ""
+
+#: src/app/components/forms/OrderForms/Swap/PriceInfo.tsx:73
+#: src/app/components/forms/OrderForms/Swap/RouteTable.tsx:122
+msgid "Route"
+msgstr ""
+
+#: src/app/components/lists/tradingHistory/TradeHistoryTitles.tsx:23
+#~ msgid "Size"
+#~ msgstr ""
+
+#: src/app/components/navbar/Header.tsx:125
+#: src/app/components/navbar/NavBar.tsx:60
+msgid "Swap"
+msgstr ""
+
+#: src/app/components/layouts/swapPage/DefaultSwapPageLayout.tsx:26
+msgid "swap on {0} | Oku Trade"
+msgstr ""
+
+#: src/app/components/layouts/mainPage/PoolPageLayout.tsx:21
+msgid "Swap on Ethereum and other chains today. Charting, analytics, trending tokens, and more on Oku Trade."
+msgstr ""
+
+#: src/app/components/modals/swap/TermsModal.tsx:58
+#~ msgid "Terms of Service"
+#~ msgstr ""
+
+#: src/app/components/lists/tradingHistory/TradeHistoryTitles.tsx:31
+msgid "Time"
+msgstr ""
+
+#: src/app/components/lists/orderBook/OrderBook.tsx:153
+msgid "Total"
+msgstr ""
+
+#: src/app/components/navbar/Header.tsx:126
+#: src/app/components/navbar/NavBar.tsx:62
+msgid "Trade"
+msgstr ""
+
+#: src/app/pages/Landing.tsx:26
+msgid "Trade, swap, provide liquidity, and more on the best DEX interface. Aggregator support across every EVM chain, including Ethereum, Arbitrum, Optimism, Polygon and Base. Access TradingView charts, analytics, trending tokens, and LP position info today."
+msgstr ""
+
+#: src/app/components/lists/tradingHistory/TradingHistory.tsx:107
+msgid "Trading History"
+msgstr ""
+
+#: src/app/components/dropdown/SearchPoolDropDown.tsx:135
+msgid "TVL"
+msgstr ""
+
+#: src/app/components/lists/tradingHistory/TradeHistoryTitles.tsx:36
+msgid "TX"
+msgstr ""
+
+#: src/app/pages/OrdersPage.tsx:18
+msgid "Uniswap v3 Trades and Positions | Oku Trade"
+msgstr ""
+
+#: src/app/components/dropdown/SearchPoolDropDown.tsx:148
+msgid "Vol 24H"
+msgstr ""
+
+#: src/app/components/forms/OrderForms/Swap/PriceInfo.tsx:126
+msgid "Warning"
+msgstr ""
+
+#: src/app/components/modals/swap/PendingQuotesModal.tsx:65
+msgid "We are still waiting to fetch a quote. Are you sure you want to proceed with the market order?"
+msgstr ""
+
+#: src/app/components/modals/swap/TermsModal.tsx:73
+msgid "Welcome to Oku!"
+msgstr ""
+
+#: src/app/components/modals/swap/PendingQuotesModal.tsx:76
+msgid "Yes"
+msgstr ""
+
+#: src/app/components/modals/swap/TermsModal.tsx:94
+msgid "You alone are responsible for securely managing your crypto assets, wallets, private keys, and trades."
+msgstr ""
+
+#: src/app/components/modals/swap/TermsModal.tsx:100
+msgid "You represent and warrant that you are not located in or a resident of any country subject to United States sanctions."
+msgstr ""
+
+#: src/app/components/modals/swap/TermsModal.tsx:97
+msgid "You understand that Oku merely communicates your trades to the DEX aggregator that you select and cannot guarantee estimated prices and times for trades."
+msgstr ""

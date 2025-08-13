@@ -2,6 +2,8 @@
 
 DEX trading terminal using Uniswap V3.
 
+![alt text](screenshot.png)
+
 ## Overview
 
 This is DEX trading terminal that combines the power of decentralized finance with professional trading tools. Users can trade tokens, manage liquidity positions, create limit orders, and perform technical analysis using industry-standard charting tools.

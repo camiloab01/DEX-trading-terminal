@@ -2,9 +2,9 @@
 
 DEX trading terminal using Uniswap V3.
 
-![alt text](screenshot.png)
+![DEX trading terminal screenshot](screenshot.png)
 
-## Overview
+## Overview 🔎
 
 This is DEX trading terminal that combines the power of decentralized finance with professional trading tools. Users can trade tokens, manage liquidity positions, create limit orders, and perform technical analysis using industry-standard charting tools.
 
@@ -17,7 +17,7 @@ This is DEX trading terminal that combines the power of decentralized finance wi
 - **Multi-chain Support**: Trade across multiple blockchain networks
 - **Portfolio Management**: Track positions, orders, and trading history
 
-## Technology Stack
+## Technology Stack 💻
 
 ### Frontend Framework
 
@@ -96,7 +96,7 @@ The application includes a default configuration. To customize settings:
 - `yarn lint:check` - Check code formatting
 - `yarn lint:fix` - Fix code formatting issues
 
-## Architecture
+## Architecture 🏗️
 
 The application follows a modular architecture with clear separation of concerns:
 

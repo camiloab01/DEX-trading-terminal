@@ -59,7 +59,7 @@ This is DEX trading terminal that combines the power of decentralized finance wi
 - **Cypress**: End-to-end testing
 - **Vitest**: Unit testing framework
 
-## Setup
+## Setup 🔧
 
 ### Prerequisites
 
